@@ -10,7 +10,8 @@ Games falling under the genres of Paid Trivia, Role-Playing, and Music tend to s
 
 Conclusion:
 
-In contrast, paid arcade games face challenges due to limited options and potential microtransaction requirements for a fulfilling gaming experience. Meanwhile, some outstanding free-to-play games offer only cosmetic items that don't impact gameplay. Despite this, gamers who are willing to spend money have a significant advantage over those who prefer free options when it comes to the overall gaming experience.
+- In contrast, paid arcade games face challenges due to limited options and potential microtransaction requirements for a fulfilling gaming experience. 
+- Meanwhile, some outstanding free-to-play games offer only cosmetic items that don't impact gameplay. Despite this, gamers who are willing to spend money have a significant advantage over those who prefer free options when it comes to the overall gaming experience.
 
 Developers should conduct thorough analyses to identify game types with the largest player base and tailor their creations to align with the interests of these gamers, thereby maximizing their potential earnings.
 
