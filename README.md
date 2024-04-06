@@ -1,4 +1,4 @@
-# Analysis on PlayStore Game Titles
+# EDA Analysis on PlayStore Game Titles
 
 About:
 
